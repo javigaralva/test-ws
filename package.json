@@ -7,5 +7,6 @@
     "username": "blz-company",
     "password": "blazedpath"
   },
+  "version": "1.0.0",
   "dependencies": {}
 }
